@@ -1,11 +1,10 @@
-package com.acg.manzhai.views
+package com.acg.manzhai.views.custom
 
 import android.content.Context
 import android.util.AttributeSet
 import android.util.Log
 import android.widget.ImageView
 import com.bumptech.glide.Glide
-import com.bumptech.glide.RequestBuilder
 import com.bumptech.glide.RequestManager
 
 class GlideView
